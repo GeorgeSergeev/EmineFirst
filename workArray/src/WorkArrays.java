@@ -39,6 +39,4 @@ public class WorkArrays {
         }
         return max;
     }
-
-
 }
